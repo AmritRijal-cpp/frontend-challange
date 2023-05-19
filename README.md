@@ -1,2 +1,0 @@
-# frontend-challange
-frontend challange
