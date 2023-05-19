@@ -196,7 +196,7 @@ p {
         border-radius: 0 0 25px 25px;
     }
     .second {
-        padding: 0 1rem;
+        padding: 0;
         width: 100%;
         display: flex;
         justify-content: space-between;
