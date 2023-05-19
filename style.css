@@ -157,6 +157,12 @@ p {
     justify-content: center;
     cursor: pointer;
 }
+
+.btn:hover {
+  background: #303b59;
+  text-decoration: none;
+}
+
 .centered-text {
     text-align: center;
 }
