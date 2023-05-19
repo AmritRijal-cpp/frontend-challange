@@ -155,6 +155,7 @@ p {
     display: flex;
     align-items: stretch;
     justify-content: center;
+    cursor: pointer;
 }
 .centered-text {
     text-align: center;
